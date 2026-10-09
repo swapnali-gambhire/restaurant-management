@@ -1,0 +1,4 @@
+restaurant-management/
+__pycache__/
+*.pyc
+db.sqlite3
